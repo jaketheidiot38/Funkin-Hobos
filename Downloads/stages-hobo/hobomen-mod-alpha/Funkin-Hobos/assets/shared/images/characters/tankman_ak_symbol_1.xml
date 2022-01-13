@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tankman_ak_symbol_1.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tankidle0000" x="0" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0001" x="515" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0002" x="1030" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0003" x="1545" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0004" x="2060" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0005" x="2575" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0006" x="3090" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0007" x="3605" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0008" x="4120" y="0" width="515" height="1213"/>
+	<SubTexture name="tankidle0009" x="4635" y="0" width="515" height="1213"/>
+	<SubTexture name="tank down0000" x="5150" y="0" width="577" height="1084"/>
+	<SubTexture name="tank down0001" x="5727" y="0" width="577" height="1084"/>
+	<SubTexture name="tank down0002" x="6304" y="0" width="577" height="1084"/>
+	<SubTexture name="tank left0000" x="6881" y="0" width="548" height="1189"/>
+	<SubTexture name="tank left0001" x="7429" y="0" width="548" height="1189"/>
+	<SubTexture name="tank left0002" x="0" y="1213" width="548" height="1189"/>
+	<SubTexture name="tank right0000" x="548" y="1213" width="548" height="1179"/>
+	<SubTexture name="tank right0001" x="1096" y="1213" width="548" height="1179"/>
+	<SubTexture name="tank right0002" x="1644" y="1213" width="548" height="1179"/>
+	<SubTexture name="tank up0000" x="2192" y="1213" width="645" height="1235"/>
+	<SubTexture name="tank up0001" x="2837" y="1213" width="645" height="1235"/>
+	<SubTexture name="tank up0002" x="3482" y="1213" width="645" height="1235"/>
+</TextureAtlas>

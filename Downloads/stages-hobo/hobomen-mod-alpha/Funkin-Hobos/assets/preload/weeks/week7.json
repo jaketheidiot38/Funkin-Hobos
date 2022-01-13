@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"hobo",
+			"face",
+			[
+				255,
+				235,
+				73
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"weekCharacters": [
+		"",
+		"spooky",
+		"bf"
+	],
+	"storyName": "steve i love your piss",
+	"weekName": "hoboweeklel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
